@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PLACCE</string>
+
+    <!--  Login  -->
+    <string name="login_title">PLACCE</string>
+    <string name="login_choose_method">Please choose your prefer login method:</string>
+
+    <!--  Profile  -->
+    <string name="profile_search_hint">Search people</string>
+    <string name="profile_search_card_default_name">Default Name</string>
+    <string name="profile_search_card_default_status">Default Status</string>
+
+    <!--  Facebook dependency values  -->
+    <string name="facebook_app_id">516861952539685</string>
+    <string name="fb_login_protocol_scheme">fb516861952539685</string>
+
+</resources>

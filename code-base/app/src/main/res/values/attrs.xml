@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="user_search_card_attributes">
+        <attr name="user_card_image_url" format="string" />
+        <attr name="user_card_name" format="string" />
+        <attr name="user_card_status" format="string" />
+    </declare-styleable>
+</resources>
